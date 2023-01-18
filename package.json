@@ -2,7 +2,7 @@
   "author": {
     "name": "Pierre Curto"
   },
-  "name": "lz4",
+  "name": "@lfdoherty/lz4",
   "description": "LZ4 streaming compression and decompression",
   "keywords": [
     "lz4",
